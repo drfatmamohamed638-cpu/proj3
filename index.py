@@ -46,8 +46,17 @@ print(n)
 
 
 
-weight =int (input("what is your weight?" ) )
-if weight < 80:
-    print("the best weight")
-else:
-    print ("you must lost your weight")
+# weight =int (input("what is your weight?" ) )
+# if weight < 80:
+#     print("the best weight")
+# else:
+#     print("you must lost your weight")
+
+
+
+# if condition
+x = int (input("what is x?" ) )
+if x > 0:
+      print("the x is positive")
+else: 
+      print("the x is negative")
